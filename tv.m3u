@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz"
-# Scraped By (https://github.com/sabbiriptv)
+# Credit to (https://github.com/sabbiriptv)
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLIV-SabbirIPTV",SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
@@ -9,8 +9,6 @@ https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLIV-SabbirIPTV",Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonyLIV-SabbirIPTV",Sony Marathi
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLIV-SabbirIPTV",Sony AATH
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLIV-SabbirIPTV",Sony MAX HD
@@ -88,8 +86,6 @@ https://web-production-38cce.up.railway.app/api?id=0-9-162
 https://web-production-38cce.up.railway.app/api?id=0-9-zeebusiness
 #EXTINF:-1 tvg-id="0-9-170" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/newsnation1170c28d164cac8b46d48dd03c24f22a2611",News Nation
 https://web-production-38cce.up.railway.app/api?id=0-9-170
-#EXTINF:-1 tvg-id="0-9-257" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-257/channel_web/tv9marathi1170c5bded27d1644b18a5624c7dd3c33d3b",TV9 Marathi
-https://web-production-38cce.up.railway.app/api?id=0-9-257
 #EXTINF:-1 tvg-id="0-9-indiatoday" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-indiatoday/channel_web/indiatodayrajeevsardesdai117023f79b66b4d4466ea52534491c162c35",India Today
 https://web-production-38cce.up.railway.app/api?id=0-9-indiatoday
 #EXTINF:-1 tvg-id="0-9-306" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-306/channel_web/vendhartv1170ea466f03c5984481876c4200bd6bb22d",Vendhar TV
@@ -242,16 +238,12 @@ https://web-production-38cce.up.railway.app/api?id=0-9-bigmagic_1786965389
 https://web-production-38cce.up.railway.app/api?id=0-9-zeetvhd
 #EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665",&TV HD
 https://web-production-38cce.up.railway.app/api?id=0-9-tvhd_0
-#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemarathi/channel_web/1170x658withlogo551054149",Zee Marathi HD
-https://web-production-38cce.up.railway.app/api?id=0-9-zeemarathi
 #EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeyuva/channel_web/1170x658withlogo_361849131",Zee Yuva
 https://web-production-38cce.up.railway.app/api?id=0-9-zeeyuva
 #EXTINF:-1 tvg-id="0-9-zeecafehd" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_web/1170x658withlogo325698699",Zee Caf  HD
 https://web-production-38cce.up.railway.app/api?id=0-9-zeecafehd
 #EXTINF:-1 tvg-id="0-9-bigganga" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_web/1170x6581735687172",Zee Ganga
 https://web-production-38cce.up.railway.app/api?id=0-9-bigganga
-#EXTINF:-1 tvg-id="0-9-129" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_web/1170x658withlogo268830785",Zee Keralam HD
-https://web-production-38cce.up.railway.app/api?id=0-9-129
 #EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347",Zee Anmol
 https://web-production-38cce.up.railway.app/api?id=0-9-zeeanmol
 #EXTINF:-1 tvg-id="0-9-215" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-215/channel_web/1170x658withlog1031170304",Zee Punjabi
@@ -290,8 +282,6 @@ https://web-production-38cce.up.railway.app/api?id=0-9-ddbihar
 https://web-production-38cce.up.railway.app/api?id=0-9-dduttarpradesh
 #EXTINF:-1 tvg-id="0-9-ddpunjabi" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpunjabi/channel_web/1170x658withlog_1007647800",DD Punjabi
 https://web-production-38cce.up.railway.app/api?id=0-9-ddpunjabi
-#EXTINF:-1 tvg-id="0-9-241" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-241/channel_web/1170x658withlog_1692640342",Zee Picchar
-https://web-production-38cce.up.railway.app/api?id=0-9-241
 #EXTINF:-1 tvg-id="0-9-250" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-250/channel_web/1170x658withlogo436360213",DD National HD
 https://web-production-38cce.up.railway.app/api?id=0-9-250
 #EXTINF:-1 tvg-id="0-9-322" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-322/channel_web/1170x658withlog_1602476580",Rengoni
@@ -368,8 +358,6 @@ https://web-production-38cce.up.railway.app/api?id=0-9-163
 https://web-production-38cce.up.railway.app/api?id=0-9-201
 #EXTINF:-1 tvg-id="0-9-ddchandana" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddchandana/channel_web/1170x658withlogo_222569298",DD Chandana
 https://web-production-38cce.up.railway.app/api?id=0-9-ddchandana
-#EXTINF:-1 tvg-id="0-9-241" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-241/channel_web/1170x658withlog_1692640342",Zee Picchar
-https://web-production-38cce.up.railway.app/api?id=0-9-241
 #EXTINF:-1 tvg-id="0-9-356" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-356/channel_web/1170x658withlog_1495734600",News First
 https://web-production-38cce.up.railway.app/api?id=0-9-356
 #EXTINF:-1 tvg-id="0-9-377" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-377/channel_web/1170x658withlog_1939892250",BTV
@@ -384,14 +372,8 @@ https://web-production-38cce.up.railway.app/api?id=0-9-271
 https://web-production-38cce.up.railway.app/api?id=0-9-392
 #EXTINF:-1 tvg-id="0-9-393" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-393/channel_web/1170x6581715566364",Fashion TV Paris
 https://web-production-38cce.up.railway.app/api?id=0-9-393
-#EXTINF:-1 tvg-id="0-9-129" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_web/1170x658withlogo_268830785",Zee Keralam HD
-https://web-production-38cce.up.railway.app/api?id=0-9-129
-#EXTINF:-1 tvg-id="0-9-257" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-257/channel_web/1170x658withlog_1579827656",TV9 Marathi
-https://web-production-38cce.up.railway.app/api?id=0-9-257
 #EXTINF:-1 tvg-id="0-9-270" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-270/channel_web/1170x658withlogo_688844399",Saam TV
 https://web-production-38cce.up.railway.app/api?id=0-9-270
-#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemarathi/channel_web/1170x658withlogo_551054149",Zee Marathi HD
-https://web-production-38cce.up.railway.app/api?id=0-9-zeemarathi
 #EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeyuva/channel_web/1170x658withlogo_361849131",Zee Yuva
 https://web-production-38cce.up.railway.app/api?id=0-9-zeeyuva
 #EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658_483062857",Zee Talkies HD
