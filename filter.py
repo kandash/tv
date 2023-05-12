@@ -9,7 +9,13 @@ M3U_FILE = 'tv.m3u'
 with open(M3U_FILE) as m3u_file:
     lines = m3u_file.readlines()
 
-blacklists = {' Marathi', ' Keralam', ' Telugu', ' Tamil', ' Kannada', ' Malayalam', ' Bangla', ' Picchar'}
+blacklists = {' Marathi', ' Keralam', ' Telugu',
+               ' Tamil', ' Kannada', ' Malayalam',
+               ' Bangla', ' Picchar', 'Kairali',
+               ' Gujarat', ' Cinemalu', ' Odisha',
+               ' Andhra', ' Kalak', ' Punjabi',
+               ' Haryana', ' Rajasthan'   
+            }
 
 filtered_entries = lines[:]
 
