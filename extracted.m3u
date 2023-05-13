@@ -407,8 +407,6 @@ https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8
 https://livetv-channels.b-cdn.net/8073/chunklist0.m3u8
 #EXTINF:-1 tvg-logo=" "  group-title="ONLINE--DNET TV",PRIME NEWS (IN)
 https://livetv-channels.b-cdn.net/8088/chunklist0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/330px-2014_Disney_Channel_logo.svg.png"  group-title="ONLINE--NETLIFY TV",DISNEY CHANNEL (IN)
-https://disneykids.snehiptv.workers.dev
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/discoveryworld-hd-new.jpg"  group-title="ONLINE--NETLIFY TV",DISCOVERY HD (IN)
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/444-4448705_mihsign-vision-animal-planet-hd-logo-hd-png.png"  group-title="ONLINE--NETLIFY TV",ANIMAL PLANET HD (IN)
