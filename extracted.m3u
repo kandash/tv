@@ -47,18 +47,6 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23084/india-tv/logo_20220825_164753_68.png"   group-title="ONLINE--HINDI TV",INDIA TV (IN)
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/large/atv.jpg"  group-title="ONLINE--HINDI TV",ATV (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Play_Entertainment_logo.png"  group-title="ONLINE--HINDI TV",PLAY (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.qurbanionline.com/wp-content/uploads/2018/08/24_News.jpg"  group-title="ONLINE--HINDI TV",CHANNEL 24 HD (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg"  group-title="ONLINE--HINDI TV",NEO NEWS HD (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png"  group-title="ONLINE--HINDI TV",AAJ (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bolnews.com/wp-content/uploads/2022/08/bol-entertainment-635x380-2.jpg"  group-title="ONLINE--HINDI TV",ULTRA HD (PK)
-https://streamone.simpaisa.com:8443/pitvlive1/bolent.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajyasabha.png"  group-title="ONLINE--HINDI TV",SANSAD TV HD (IN)
 https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/avafamily-vipotv-min.png"  group-title="ONLINE--HINDI TV",AVA FAMILY (RU)
@@ -79,8 +67,6 @@ http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvweb.cdn.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News11.png"  group-title="ONLINE--HINDI TV",NEWS 11 (IN)
 http://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png"  group-title="ONLINE--HINDI TV",AAJ TAK (IN)
-http://5.254.16.186/AajTak/index.m3u8
 #EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DdrIzhgL.png"  group-title="ONLINE--HINDI TV",COLORS (IN)
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png"  group-title="ONLINE--HINDI TV",SONY (IN)
@@ -155,62 +141,6 @@ https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/in
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1566764sanskar.png"  group-title="ONLINE--HINDI TV",SANSKAR HD (IN)
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZEE CINEMA HD (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-zeecinemahd
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZING (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-zing
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",&PICTURES HD (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-tvpictureshd
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZEE ANMOL CINEMA (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-zeeanmolcinema
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZEE BOLLYWOOD (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-zeeclassic
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZEE ACTION (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-zeeaction
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZEE CLASSIC (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-176
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",&XPLOR HD (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-209
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",AAJ TAK (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-aajtak
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZEE NEWS (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-zeenews
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",R.BHARAT (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-162
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZEE BUSINESS (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-zeebusiness
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZEE TV HD (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-zeetvhd
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",&TV HD (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-tvhd_0
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZEE ANMOL (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-zeeanmol
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",DD NATIONAL HD (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-250
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZEE SALAAM (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-zeesalaam
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZEE ZEST HD (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-348
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",DD NEWS (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-ddnews
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",DD KISAN (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-ddkisan
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",BIG MAGIC (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-bigmagic_1786965389
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",NEWS 24 (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-206
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",GTN (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-255
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",ZEE HINDUSTAN (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-zeehindustan
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",INDIA NEWS (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-272
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",E 24 (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-207
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",DD BHARATI (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-ddbharati
-#EXTINF:-1  tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GwmEMW18.png"  group-title="ONLINE--ENGLISH TV",INDIA TODAY (IN)
-https://5.254.16.186:443/IndiaToday/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHR7L1x/ONE-GOLF.jpg"   group-title="ONLINE--ENGLISH TV",ONE GOLF (PK)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NewsX_Logo.png/640px-NewsX_Logo.png"  group-title="ONLINE--ENGLISH TV",NEWS X (IN)
@@ -281,8 +211,6 @@ https://livedoc.cgtn.com/500d/prog_index.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="DUBAI ONE" tvg-logo="https://www.dubaione.ae/content/dam/dubaione/icons/brand/dubaione-logo.png"   group-title="ONLINE--ENGLISH TV",DUBAI ONE  (ME)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh98564g3KfoE7EXxgppw6DLoSkELYzXcTJwOQ8n94CRTM9fRhS-jjP8c8w-kKHDxcL3uPgJniGMsgjHIuxAgSSk0JJcAcv_9gz28S7GVL1jzzcv1YE7fDANIczRhf9FhjsErxjfg29jhCCt9stCV5ZQSWEIU5W5TMgWj5gc49bQ85Li3_FwetKwaEfSg/s400/Picsart_22-12-10_17-34-23-799.png"  group-title="ONLINE--ENGLISH TV",RTV (ME)
-http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="GOOD NEWS TV" tvg-logo="https://pbs.twimg.com/profile_images/1126426222530056192/zMiBHZaX_400x400.jpg"  group-title="ONLINE--ENGLISH TV",GOOD NEWS TV (UK)
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-goodnewstv-SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496946176554323968/mvKcSPoE_400x400.jpeg"  group-title="ONLINE--ENGLISH TV",BRITISH MUSLIM TV (UK)
@@ -293,8 +221,6 @@ https://a1a69a13b68f44f4aff604dd4cdee5cd.mediatailor.us-west-2.amazonaws.com/v1/
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream2/chunks.m3u8
 #EXTINF:-1 tvg-id="FTV" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png"  group-title="ONLINE--ENGLISH TV",FTV (US)
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-id="FAILARMY" tvg-logo="https://i.imgur.com/nbzbHum.png"  group-title="ONLINE--ENGLISH TV",FAILARMY (US)
-https://failarmy-international.ono.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ONLINE--ENGLISH TV",HALLMARK (US)
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-logo=" " group-title="ONLINE--ENGLISH TV",HALLMARK DRAMA (US)
@@ -321,8 +247,6 @@ https://peopletv-oando.akamaized.net/midroll/amagi_hls_data_peopletvA-peopletvoa
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqNMvVSdWMwGiZ3aUIHxlzt9kI3fpqOZ30jIPU-atF_Zq8rcV2efxC6FgBavp2897-gmxV84uQBfReF_O-cMzOcp99gaOhziIbHOM-VehYW1_cZjR7ppN8M4Llla1HBHB1hvPUotBrebmBcd7uG4Q_AqCDjpO0IiIsJ3tOVBNbX_tvxLzzpAeSo5XGJQ/s400/Picsart_22-12-11_16-58-11-094.png"  group-title="ONLINE--ENGLISH TV",AXS TV (US)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1424745205291356166/9H6-OpVB_400x400.jpg"  group-title="ONLINE--ENGLISH TV",INDIA AHEAD (IN)
-https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.aokpass.com/images/as-featured-cna-logo.png"  group-title="ONLINE--ENGLISH TV",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rtFcXqpX.png"  group-title="ONLINE--ENGLISH TV",WION (IN)
@@ -447,18 +371,10 @@ https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRAVEL XP" tvg-logo="https://travelxptv.b-cdn.net/wp-content/uploads/2016/12/travelxp-crystal-logo.png"  group-title="ONLINE--SAMSUNG TV PLUS",TRAVEL XP (NL)
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DUCK TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLUwT32-qT33Aw5mtPuD9Nj7wrr9WDtggtOtDui3hTDZrv8Se-_fVatii1bnOClJBqGvpmJAsTfe3JCtt0xy7UMKUpOiYbxjF-vypGt635kiMynu5LAXxiqQfQpM2ABE41vNEb7PKvzhdlTirwZ0H2xKRXFpuv5uU1GKlfbUypFVQXYhqrfz0kQcem7g/s400/Picsart_22-12-11_12-16-59-180.png"  group-title="ONLINE--SAMSUNG TV PLUS",DUCK TV (US)
-https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CRIME 360" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrEyE2jDxwYz4jXQKzZ5Dbm3bWxdV6g0CGKVL2_chrb_OgjZmCoIZxaUyjRCVte-lJora4IQSvnXzw9fY2Yl-gyX3dkB9LmqQONy6ceqCo-KQL7cNUi8B7NBTQqzDgcrBwz0FUr_3JkrDNg9IVfUb9D21jmpkMVZ5Me25Ms4ArU-tKHE7r0MvcSJvzYg/s400/Picsart_22-12-11_12-20-53-602.png"  group-title="ONLINE--SAMSUNG TV PLUS",CRIME 360 (US)
-https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="WILD LIFE" tvg-logo="https://images.teemill.com/qzakvr44vkw1zwbqzxzcdnlx2zco2omqizcso45jcgreqioj.png.png"  group-title="ONLINE--SAMSUNG TV PLUS",WILD LIFE (US)
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.wealthpedia.in/wp-content/uploads/2021/03/Yahoo-Finance-Vs-Google-Finance.jpeg"  group-title="ONLINE--SAMSUNG TV PLUS",YAHOO FINANCE (US)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.adrise.tv/b1a639f6-6e3c-4dae-a037-a13396f08fd2.png"  group-title="ONLINE--SAMSUNG TV PLUS",MOVIES PHEREUK (US)
-https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.designrush.com/inspirations/129839/conversions/_1611238414_61_lego-logo-1-preview.jpg"  group-title="ONLINE--SAMSUNG TV PLUS",LEGO (US)
-https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png"  group-title="ONLINE--SAMSUNG TV PLUS",IN TROUBLE (IN)
 https://introuble-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DY365" tvg-logo="https://dy365.in/images/logo.png" group-title="ONLINE--ASSAMESE TV",DY 365 (IN)
@@ -469,8 +385,6 @@ https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8
 #EXTINF:-1 tvg-id="PRATIDIN TIME" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QYfhpkre.png"  group-title="ONLINE--ASSAMESE TV",PRATIDIN TIME (IN) 
 https://5b48d7e1b4bce.streamlock.net/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1  tvg-logo=" "  group-title="ONLINE--ASSAMESE TV",NE NEWS (IN)
-https://zee5.yashrajmod.online/api.php?c=0-9-280
 #EXTINF:-1 tvg-id="GAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/GAY.tv.PNG"  group-title="ONLINE--ADULT TV",GAY TV (UK)
 http://play.iptvxxx.net/gay.m3u8
 #EXTINF:-1 tvg-id="GANGBANG" tvg-logo="https://static10.tgstat.ru/channels/_0/68/6889ca04ab0d5a2a51b993cca194e7a1.jpg"  group-title="ONLINE--ADULT TV",GANGBANG (UK)
@@ -479,8 +393,6 @@ http://play.iptvxxx.net/gangbang.m3u8
 http://play.iptvxxx.net/livecams.m3u8
 #EXTINF:-1 tvg-id="PASSION X HARDCORE" tvg-logo="https://www.lyngsat.com/logo/tv/pp/passion_xxx_nl.png"  group-title="ONLINE--ADULT TV",PASSION X HARDCORE (NL)
 http://95.87.227.29:8080/PASSIONXXX/index.m3u8
-#EXTINF:-1 tvg-id="HUSTLER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"  group-title="ONLINE--ADULT TV",HUSTLER HD (EU)
-http://193.33.240.8:80/hustler_hd/video.m3u8
 #EXTINF:-1 tvg-logo="http://satinfo24.pl/wp-content/uploads/2020/04/152302558372_logo_privatetvhd_ok1-800x445.png"  group-title="ONLINE--ADULT TV",PRIVATE HD (UK)
 http://213.226.69.130/iptv/BF9GWX8VNPYM9X/243/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg" group-title="ONLINE--PLAY BOX TV",MANORANJAN MOVIES (IN)
