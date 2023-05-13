@@ -303,32 +303,6 @@ https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23013/bollywood-prime/poster_20211202_231541.jpg"  group-title="ONLINE--LINEAR TV",BOLLYWOOD PRIME (US)
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png"  group-title="ONLINE--LINEAR TV",SONY HD (IN)
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--LINEAR TV",SONY SAB HD (IN)
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--LINEAR TV",SONY BBC EARTH HD (IN)
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png"  group-title="ONLINE--LINEAR TV",SONY PAL (IN)
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--LINEAR TV",SONY MAX HD (IN)
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png"  group-title="ONLINE--LINEAR TV",SONY WAH (IN)
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png"  group-title="ONLINE--LINEAR TV",SONY MAX 2 (IN)
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--LINEAR TV",SONY PIX HD (IN)
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png"  group-title="ONLINE--LINEAR TV",SONY SPORTS TEN 1 HD (IN)
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png"  group-title="ONLINE--LINEAR TV",SONY SPORTS TEN 2 HD (IN)
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png"  group-title="ONLINE--LINEAR TV",SONY SPORTS TEN 3 HD (IN)
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sgwhtcdnems09.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png"  group-title="ONLINE--LINEAR TV",SONY SPORTS TEN 5 HD (IN)
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--LINEAR TV",SONY YAY (IN)
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/10/Local-Now-Adrenaline-Rush-live-vipotv.png"  group-title="ONLINE--LINEAR TV",LOCAL NOW ADRENALINE RUSH (US)
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ONLINE--LINEAR TV",LOCAL NOW MUSIC (US)
