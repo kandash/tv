@@ -226,3 +226,75 @@ https://web-production-38cce.up.railway.app/api?id=0-9-207
 https://web-production-38cce.up.railway.app/api?id=0-9-348
 #EXTINF:-1 tvg-id="0-9-zing" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo895666865",Zing
 https://web-production-38cce.up.railway.app/api?id=0-9-zing
+#EXTINF:-1 tvg-logo="https://era-global.org/system/imgs/584/big/naaptol-logo.jpg"  group-title="ONLINE--HINDI TV",NAAPTOL (IN)
+https://naaptol.livebox.co.in/Naaptolbluehls/bluehindi.m3u8
+#EXTINF:-1 tvg-logo="http://sudarshannews.in/images/logo.jpg"  group-title="ONLINE--HINDI TV", SUDARSHAN NEWS (IN)
+https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.examsegg.com/wp-content/uploads/2021/02/republic-bharat-logo-e1613310592185.jpg"  group-title="ONLINE--HINDI TV",R.BHARAT (IN)
+https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/ottrb/master.m3u8?e=1651422600&h=ee5dc745cc65ecd58d891bc0eec5a896
+#EXTINF:-1 tvg-logo="http://www.channelwin.tv/wp-content/uploads/2018/10/CW-logo-01-1.png"   group-title="ONLINE--HINDI TV",CHANNEL WIN (IN)
+https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/India_News.png"   group-title="ONLINE--HINDI TV",INDIA NEWS (IN)
+https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/10/dilse.jpg"  group-title="ONLINE--HINDI TV",DIL SE (IN)
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.joomusic.info/assets/images/logo.png"  group-title="ONLINE--HINDI TV",JOO MUSIC (IN)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tagtv.info/wp-content/uploads/2021/02/TagTv.png"  group-title="ONLINE--HINDI TV",TAG (PK)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png"  group-title="ONLINE--HINDI TV",AAJ TAK HD (IN)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png"  group-title="ONLINE--HINDI TV",AAJ TAK (IN)
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png"  group-title="ONLINE--HINDI TV",GNT (IN)
+https://feeds.intoday.in/gnt/api/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/NDTV_hindi_750x500_screnngrab.jpg"  group-title="ONLINE--HINDI TV",NDTV INDIA (IN)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/109657-abplogo.jpg"  group-title="ONLINE--HINDI TV",ABP NEWS (IN)
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png"   group-title="ONLINE--HINDI TV",ZEE AFLAM (ME)
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23084/india-tv/logo_20220825_164753_68.png"   group-title="ONLINE--HINDI TV",INDIA TV (IN)
+https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajyasabha.png"  group-title="ONLINE--HINDI TV",SANSAD TV HD (IN)
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/avafamily-vipotv-min.png"  group-title="ONLINE--HINDI TV",AVA FAMILY (RU)
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TheQIndia.png"  group-title="ONLINE--HINDI TV",THE Q (IN)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-theqwatcho-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg31Q5jQ12irjHXELHuFfHaNX3Refa_FowQvIraeNm7n_HH2TTyV1oMMwl4a6xzAOUvTMG1NWhj61ltYpKwmdxKR3x_WXZZMNTpp0PNiAhKxlPCHCOgXWmQRTV_F_iBOKypFB44HjA9pi2urbGP9c26Ga5zrYz73wvmbWEFhJX0NEOAu59JvrIi7dL92g/s400/Picsart_22-12-10_07-21-04-248.png"  group-title="ONLINE--HINDI TV",INH 24 (IN)
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bansal_News.png"  group-title="ONLINE--HINDI TV",BANSAL NEWS (IN)
+https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png"  group-title="ONLINE--HINDI TV",SHUBHSANDESH TV (IN)
+http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IND_24.png"  group-title="ONLINE--HINDI TV",IND 24 (IN)
+https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janta_TV.png"  group-title="ONLINE--HINDI TV",JANTA TV (IN)
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/A1tv-in.png"  group-title="ONLINE--HINDI TV",A1 TV (IN)
+http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvweb.cdn.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News11.png"  group-title="ONLINE--HINDI TV",NEWS 11 (IN)
+http://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DdrIzhgL.png"  group-title="ONLINE--HINDI TV",COLORS (IN)
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png"  group-title="ONLINE--HINDI TV",SONY (IN)
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-logo=" "  group-title="ONLINE--HINDI TV",SHEMAROO BOLLYWOOD (IN)
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Samachar-24/610a8ac8a609d20cad000041/medium_16_9.jpg"  group-title="ONLINE--HINDI TV",SAMACHAR 24 HD (IN)
+https://imagetv.shemaroo.com/hls5/samachar24/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.epicon.in/img/gubbare-logo.png"  group-title="ONLINE--HINDI TV",GUBBARE (IN)
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg" group-title="ONLINE--PLAY BOX TV",MANORANJAN MOVIES (IN)
+http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg"   group-title="ONLINE--PLAY BOX TV",MANORANJAN TV (IN)
+http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png"   group-title="ONLINE--PLAY BOX TV",MAHA MOVIES (IN)
+http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/893ccLnZ.png"  group-title="ONLINE--PLAY BOX TV",DANGAL 2 (IN)
+http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/discoveryworld-hd-new.jpg"  group-title="ONLINE--NETLIFY TV",DISCOVERY HD (IN)
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/food-network-logo-black-and-white.png"  group-title="ONLINE--NETLIFY TV",FOOD NETWORK (ASIA)
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
