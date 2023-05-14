@@ -10,7 +10,7 @@ import logging
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - (%(levelname)s) %(message)s', datefmt='%I:%M:%S %p')
 
-M3U_FILE = 'tv.m3u'
+M3U_FILE = 'jio.m3u'
 
 
 def get_blacklists_channels(filename: str) -> list:
