@@ -3,3 +3,4 @@ venv/
 
 *.txt
 test.py
+ping.py
