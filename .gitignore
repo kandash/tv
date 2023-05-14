@@ -1,5 +1,7 @@
 __pycache__/
 venv/
+extras/
+m3utools/
 
 *.txt
 test.py
