@@ -294,3 +294,14 @@ http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/food-network-logo-black-and-white.png"  group-title="ONLINE--NETLIFY TV",FOOD NETWORK (ASIA)
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+
+#EXTINF: -1 tvg-id="ch18" tvg-logo="https://i.postimg.cc/Jzm6Y894/20230511-212518.png" group-title="Kids", Hungama
+https://tsneh.vercel.app/hungama_anny_hungamaplaylist.m3u8
+#EXTINF: -1 tvg-id="ch09" tvg-logo="https://i.postimg.cc/qR1P4Ls1/1683819127251.png" group-title="Kids", Disney Channel
+http://xtv.ooo:8080/live/1332/1332/167551.ts
+#EXTINF: -1 tvg-id="ch15" tvg-logo="https://i.postimg.cc/zXKD90SQ/20230511-205333.png" group-title="Kids", Discovery Kids
+https://tsneh.vercel.app/discoverykidsbyrick
+#EXTINF: -1 tvg-id="ch20" tvg-logo="https://i.postimg.cc/xCx7zZCy/20230511-214005.png" group-title="Kids", Nick HD+
+https://tsneh.vercel.app/nickhdbyrick
+#EXTINF: -1 tvg-id="ch27" tvg-logo="https://i.postimg.cc/zBP1wvBQ/20230511-215921.png" group-title="Kids", Super Hungama
+http://103.245.195.80:9500/play/a032/index.m3u8
